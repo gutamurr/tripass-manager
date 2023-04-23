@@ -3,7 +3,7 @@ import main as mn
 # START MESSAGE TEXT
 start_text = """
 <b>Hi, i'm your Pass Manager and my name is TriPass. ✔</b>\n
-<b>How it works?</b>
+<b>How does it work?</b>
 You enter a command with the name of the service and the password you want to add.\n
 <em>Important note: Your password is stored in the database in an unencrypted form. This project is like an idea for a full-scale work. ⚠</em>
 """
