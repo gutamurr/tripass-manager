@@ -1,5 +1,5 @@
-# TriPass Telegram Bot 🔐
-Password manager in Telegram
+### TriPass Telegram Bot 🔐
+# Password manager in Telegram
 
 Available services whose passwords you can add to the manager:
 - Google
